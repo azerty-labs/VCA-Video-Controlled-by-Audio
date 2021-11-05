@@ -10,10 +10,10 @@ The software consists of two windows. One for window for controlling the paramet
 
 The control window allows you to change :
 
-- the 3D object
-- The texture
-- The zoom on the object
-- The cut-off frequency of the low pass filter
+- 3D objects
+- Textures
+- Zoom on the object
+- Cut-off frequency of the low pass filter
 
 ## Models
 
